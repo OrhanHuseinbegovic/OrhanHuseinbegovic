@@ -9,26 +9,26 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔹 Software Engineer with industry experience in **SCE**, **Symphony**, and **ZIRA**
-- 🔹 Strong background in **backend development** and system architecture
-- 🔹 Experience with **AI tools**, **agent-based workflows**, and **automation**
-- 🔹 Actively using **n8n** for integrations, orchestration, and productivity
-- 🔹 Passionate about learning, mentoring, and clean engineering practices
+-  Software Engineer with industry experience in **SCE**, **Symphony**, and **ZIRA**
+-  Strong background in **backend development** and system architecture
+-  Experience with **AI tools**, **agent-based workflows**, and **automation**
+-  Actively using **n8n** for integrations, orchestration, and productivity
+-  Passionate about learning, mentoring, and clean engineering practices
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,cpp,php,dotnet,nodejs" />
 </p>
 
 ---
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=spring,express,nestjs,fastapi" />
 </p>
@@ -41,21 +41,21 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ---
 
-### 🌐 Frontend & Mobile
+### Frontend & Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative" />
 </p>
 
 ---
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ---
 
-### 🔧 DevOps, CI/CD & Tooling
+### DevOps, CI/CD & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions" />
 </p>
@@ -67,7 +67,7 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ---
 
-### 📡 Messaging & Streaming
+### Messaging & Streaming
 <p>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
@@ -75,7 +75,7 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ---
 
-### 🔐 Auth & Security
+### Auth & Security
 <p>
   <img src="https://img.shields.io/badge/OAuth%202.0-3C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
@@ -83,7 +83,7 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ---
 
-### 🤖 AI & Automation
+### AI & Automation
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-5A67D8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -97,14 +97,14 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ---
 
-### 🧪 Testing
+### Testing
 <p>
   <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 
 ---
 
-### 🎨 Design & Prototyping
+### Design & Prototyping
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
@@ -115,18 +115,18 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ---
 
-## 🏫 Education
+## Education
 
-🎓 **Master of Software Engineering**  
+**Master of Software Engineering**  
 International Burch University (2025 – Present)
 
-🎓 **BSc – Engineer of Information Technologies**  
+**BSc – Engineer of Information Technologies**  
 International Burch University (2022 – 2025)  
-📊 GPA: 8.29
+GPA: 8.29
 
 ---
 
-## 🤝 Community & Volunteering
+## Community & Volunteering
 
 - Vice President — **ACM Club @ IBU**
 - Python Lecturer — **CoderDojo (Bit Alliance)**
@@ -136,14 +136,14 @@ International Burch University (2022 – 2025)
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - 🇬🇧 English — Excellent
 - 🇩🇪 German — Basic
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://github.com/OrhanHuseinbegovic">
@@ -156,4 +156,3 @@ International Burch University (2022 – 2025)
 
 ---
 
-⭐ *Always open to learning, collaboration, and building impactful software.*
