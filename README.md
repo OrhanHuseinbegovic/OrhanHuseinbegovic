@@ -11,7 +11,7 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ## About Me
 
--  Software Engineer with industry experience in **[BHTelecom](www.bhtelecom.ba)**, **[SCE](https://www.sce.technology/)**, **[Symphony](https://symphony.is/)**, and **[ZIRA](https://ziragroup.com/)**
+-  Software Engineer with industry experience in **[BHTelecom](https://www.bhtelecom.ba)**, **[SCE](https://www.sce.technology/)**, **[Symphony](https://symphony.is/)**, and **[ZIRA](https://ziragroup.com/)**
 -  Strong background in **backend development** and system architecture
 -  Experience with **AI tools**, **agent-based workflows**, and **automation**
 -  Actively using **n8n** for integrations, orchestration, and productivity
