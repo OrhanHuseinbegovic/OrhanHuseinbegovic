@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Orhan Huseinbegović
 
 🎓 MSc Software Engineering student @ International Burch University  
-💼 Software Engineer @ SCE  
-📍 Sarajevo, Bosnia and Herzegovina  
+💼 Software Developer @ [BHTelecom](www.bhtelecom.ba)   
+📍 Sarajevo, Bosnia and Herzegođvina  
 
 Backend-focused software engineer with strong full-stack experience.  
 I enjoy building scalable systems, clean APIs, and automated workflows using modern tools, AI, and low-code automation platforms like n8n.
@@ -11,7 +11,7 @@ I enjoy building scalable systems, clean APIs, and automated workflows using mod
 
 ## About Me
 
--  Software Engineer with industry experience in **SCE**, **Symphony**, and **ZIRA**
+-  Software Engineer with industry experience in **[BHTelecom](www.bhtelecom.ba)**   **[SCE](https://www.sce.technology/)**, **[Symphony](https://symphony.is/)**, and **[ZIRA](https://ziragroup.com/)**
 -  Strong background in **backend development** and system architecture
 -  Experience with **AI tools**, **agent-based workflows**, and **automation**
 -  Actively using **n8n** for integrations, orchestration, and productivity
